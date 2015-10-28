@@ -1,0 +1,85 @@
+body {
+  padding-top: 52px;
+  word-wrap: break-word;
+}
+#gradient > .vertical(#f0f80b; #000);
+#gradient > .horizontal(#333; #000);
+#gradient > .radial(#333; #000);
+
+.navbar-default {
+    background-color: #ffead6;
+    border-color: #ffd9b5;
+}
+.wraptext {
+	word-wrap: break-word;
+}
+.kosong {
+    margin: 50px 0px 0px 0px;
+}
+
+.kategori {
+	padding: 3px;
+	background-color: #555;
+	color: #CCCCFF;
+	text-align: center;
+}
+.spasi {
+	padding:4px;
+}
+#footer .footer {
+	background-color: #878e8d;
+	color: #def8f3;
+}
+.merah {
+	color: #f11e28;
+}
+.merahbg {
+	background-color: #f11e28;
+}
+.biru {
+	color: #270bf8;
+}
+.birubg {
+	background-color: #270bf8;
+}
+
+.kuning {
+	color: #f0f80b;
+}
+.kuningbg {
+	background-color: #f0f80b;
+}
+.hitam {
+	color: #020202;
+}
+.hitambg {
+	background-color: #020202;
+}
+.coklat {
+	color: #875703;
+}
+.coklatbg {
+	background-color: #875703;
+}
+.hijau {
+	color: #0baa16;
+}
+.hijaubg {
+	background-color: #0baa16;
+}
+.putih {
+	color: #ffffff;
+}
+.putihbg {
+	background-color: #ffffff;
+}
+.kotak {
+    padding: 2px 4px 2px 4px;
+    border: 1px solid ;
+    margin: 2px 4px 2px 4px;
+    border-radius: 10px;
+}
+.heading-images{
+    white-space:normal !important;
+    word-wrap:break-word; 
+}
